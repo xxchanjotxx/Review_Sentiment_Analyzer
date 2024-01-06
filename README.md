@@ -16,7 +16,7 @@ Uncover insights by delving into the sentiments expressed in diverse product rev
 - ### Most Reviewed Products
   ![most_reviewed_products](https://github.com/xxchanjotxx/Review_Sentiment_Analyzer/assets/78687582/7db49f1d-72da-46ca-8170-9cb490ba23ee)
 
-- ### Highly Rated Products
+- ### Highest Rated Products
   ![top_10_products](https://github.com/xxchanjotxx/Review_Sentiment_Analyzer/assets/78687582/3728f5ce-2286-456b-b339-a9e86be626e3)
 
 - ### Worst Rated Products
